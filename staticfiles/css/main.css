@@ -1,0 +1,78 @@
+.pawame {
+  font-family: 'Sniglet', cursive;
+  font-size: 23px;
+  color: #0B920D;
+}
+
+.links a {
+  color: black;
+}
+
+.links h5 {
+  border-bottom: solid 2px #0B920D;
+}
+.post-content {
+  font-family: 'Open Sans', sans-serif;
+  width: 100vw;
+}
+
+*img {
+  max-width: 100%;
+  display: none;
+}
+
+.post-date {
+  font-family: 'Lora', serif;
+}
+
+.major {
+  font-size: 35px;
+}
+
+#bgimage{
+  background-image: url(https://images.pexels.com/photos/886521/pexels-photo-886521.jpeg?cs=srgb&dl=person-s-left-hand-holding-green-leaf-plant-886521.jpg&fm=jpg);
+  background-size: cover;
+}
+
+
+.postTo {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #ced4da;
+  border-radius: 0;
+  outline: none;
+  box-shadow: none;
+}
+
+.onlineUser {
+  border: solid 7px green;
+}
+
+.tinted-image {
+  background: /* top, transparent red, faked with gradient */
+  linear-gradient( rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.65)), /* bottom, image */
+  url(https://c4.wallpaperflare.com/wallpaper/696/827/787/green-nature-light-bulb-green-energy-wallpaper-preview.jpg);
+  height: 100vh;
+  background-size: cover;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.search {
+  font-size: 40px;
+}
+
+.search-link a {
+  color: black;
+}
+.bgcolor{
+  background-color: #E7E6E2;
+}
+
+#purpose{
+  padding-top: 10px;
+}
+
+.textgrn{
+  color: #0B920D;
+}
