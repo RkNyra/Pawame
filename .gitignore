@@ -1,4 +1,6 @@
 venv/
+virtual/
 .vscode/
 *pyc
 __pycache__
+.env
