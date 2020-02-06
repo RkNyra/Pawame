@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-=======
 venv/
 virtual/
 .vscode/
 *pyc
 __pycache__
 .env
->>>>>>> 16cac273b89b393267d64ce5ef4bf3d9ec5609a1
