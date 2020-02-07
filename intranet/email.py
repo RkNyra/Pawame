@@ -3,7 +3,7 @@ from django.template.loader import render_to_string
 
 def send_credentials(password,username,reciever):
     subject = 'Pawame Password Management.'
-    sender = 'danielevans.karani@gmail.com'
+    sender = 'rknyramoringa@gmail.com'
 
     #passing in the context variables
     text_content = render_to_string('email/passwordemail.txt', {"password":password, "username":username})
